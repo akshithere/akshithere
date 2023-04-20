@@ -1,7 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hey There, I'm Akshit</h1>
 <h3 align="center">A Curious 17 Year Old Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshithere&show_icons=true&locale=en&layout=compact" alt="akshithere" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshithere&show_icons=true&locale=en" alt="akshithere" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshithere&" alt="akshithere" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithere&label=Profile%20views&color=0e75b6&style=flat" alt="akshithere" /> </p>
 
@@ -26,8 +31,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/akshithere"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/akshithere" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshithere&show_icons=true&locale=en&layout=compact" alt="akshithere" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshithere&show_icons=true&locale=en" alt="akshithere" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshithere&" alt="akshithere" /></p>
