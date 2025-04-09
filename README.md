@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hey There, I'm Akshit</h1>
-<h3 align="center">I'm a final year undergrad and I like to builc</h3>
+<h3 align="center">I'm a final year undergraduate student and I like to build stuff. </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshithere&show_icons=true&locale=en&layout=compact" alt="akshithere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshithere&show_icons=true&locale=en" alt="akshithere" /></p>
