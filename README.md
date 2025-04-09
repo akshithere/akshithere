@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hey There, I'm Akshit</h1>
-<h3 align="center">A Curious 18 Year Old Developer</h3>
+<h3 align="center">I'm a final year undergrad and I like to builc</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshithere&show_icons=true&locale=en&layout=compact" alt="akshithere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshithere&show_icons=true&locale=en" alt="akshithere" /></p>
@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithere&label=Profile%20views&color=0e75b6&style=flat" alt="akshithere" /> </p>
 
 
-- 🔭 I’m currently working on **Web 3 DApp**
+- 🔭 I’m currently working on **Better-Together**, which leverages AI to connect the needy with the NGO'S and charities. 
 
 - 🌱 I’m currently learning advanced JavaScript and TypeScript. I am also experimenting with modern web development frameworks like NextJS
 
