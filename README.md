@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on **Web 3 DApp**
 
-- 🌱 I’m currently learning advanced JavaScript and TypeScript. I am also experimenting with modern web development frameworks like NextJS**
+- 🌱 I’m currently learning advanced JavaScript and TypeScript. I am also experimenting with modern web development frameworks like NextJS
 
-- 📫 How to reach me **iamakshithere@gmail.com@gmail.com**
+- 📫 How to reach me **iamakshithere@gmail.com**
 
-- 👨🏽‍💻 I’m currently searching for an internship**
+- 👨🏽‍💻 I’m currently searching for an internship
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
